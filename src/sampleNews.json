@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Moment gas explosion flattens building in Washington DC",
+            "description": "Firefighters had responded to a report of a gas leak, but were not able to stop it.",
+            "url": "https://www.bbc.co.uk/news/world-us-canada-68028339",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1535C/production/_132367868_p0h5z134.jpg",
+            "publishedAt": "2024-01-19T12:22:18.9132317Z",
+            "content": "CCTV footage shows the moment a gas explosion flattened a building in Washington DC.\r\nFirefighters had responded to a report of a gas leak in the Anacostia neighbourhood, but were not able stop it.\r\n… [+616 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine war: Russian oil depot hit in Ukrainian drone attack",
+            "description": "Fire breaks out over a large area in the Bryansk region, a day after another oil facility is targeted.",
+            "url": "https://www.bbc.co.uk/news/world-europe-68029235",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/174A4/production/_132369359_de24.jpg",
+            "publishedAt": "2024-01-19T12:22:16.2599028Z",
+            "content": "Fire has broken out over a large area of an oil storage depot in southern Russia after officials say it was hit by a Ukrainian drone.\r\nRussian media say four oil tanks caught alight and the fire then… [+784 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Gaza destruction risks lost generation of children, says UN official",
+            "description": "A senior UN official tells the BBC that civilians may have no choice but to leave entirely",
+            "url": "https://www.bbc.co.uk/news/world-middle-east-68023080",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1780A/production/_132366269_de27.jpg",
+            "publishedAt": "2024-01-19T11:37:16.2601353Z",
+            "content": "This week Al Israa University became the latest major public building in Gaza to disappear from the map, blown up and destroyed by Israeli forces who had reportedly used it as a military base for sev… [+6509 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC Sport",
+            "title": "Shawn Barber: Former world pole vault champion dies aged 29",
+            "description": "Canada's former world pole vault champion Shawn Barber dies at the age of 29 from medical complications.",
+            "url": "https://www.bbc.co.uk/sport/athletics/68026959",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/731A/production/_132366492_gettyimages-915597600.jpg",
+            "publishedAt": "2024-01-19T11:07:16.587642Z",
+            "content": "Canada's former world pole vault champion Shawn Barber has died at the age of 29 from medical complications.\r\nHis agent Paul Doyle told the Reuters news agency that Barber passed away at home in Texa… [+1169 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Madonna sued by fans in New York over late concert start time",
+            "description": "Two fans say the New York show started more than two hours late and did not end until after 01:00.",
+            "url": "https://www.bbc.co.uk/news/entertainment-arts-68027965",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9264/production/_132367473_capture.jpg",
+            "publishedAt": "2024-01-19T11:07:15.166121Z",
+            "content": "Two Madonna fans are suing the US singer for being late by more than two hours for a show last month in New York, according to court documents.\r\nThey state the show was meant to start at 20:30 EST on… [+2685 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Newham: Newborn baby girl found wrapped in towel in bag",
+            "description": "The baby was discovered in London by a member of the public who kept her warm until paramedics arrived.",
+            "url": "https://www.bbc.co.uk/news/uk-england-london-68025769",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/09C0/production/_132369420_geograph-4961414-by-des-blenkinsopp.jpg",
+            "publishedAt": "2024-01-19T11:07:13.2759653Z",
+            "content": "A newborn baby girl has been found wrapped in a towel in a shopping bag in east London, police said.\r\nThe baby was discovered in Newham by a member of the public who kept her warm until paramedics ar… [+1140 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Who is Trump's trial lawyer Alina Habba?",
+            "description": "The 39-year-old former fashion executive is defending Trump's legal - and political - record.",
+            "url": "https://www.bbc.co.uk/news/world-us-canada-68014329",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B064/production/_132365154_gettyimages-1925543128.jpg",
+            "publishedAt": "2024-01-19T03:52:10.8539581Z",
+            "content": "One of the most striking elements to emerge from Donald Trump's defamation trial has been the frequent clashes between his lawyer, Alina Habba, and the seasoned judge who has at times questioned her … [+4047 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "La Kena: Notorious Mexican cartel leader captured",
+            "description": "José Alberto García Vilano has been linked to the killing of two US citizens last year.",
+            "url": "https://www.bbc.co.uk/news/world-latin-america-68027129",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6122/production/_132366842_mediaitem132366841.jpg",
+            "publishedAt": "2024-01-19T02:52:12.4637657Z",
+            "content": "The leader of a faction of the notorious Gulf Cartel in Mexico has been arrested, local media reports.\r\nJosé Alberto García Vilano, also known as La Kena or Ciclon 19, allegedly leads the violent Los… [+1986 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Melania Trump gives eulogy at mother's funeral",
+            "description": "Donald Trump skipped a court session in his defamation trial in New York to attend the funeral.",
+            "url": "https://www.bbc.co.uk/news/world-us-canada-68026771",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BA96/production/_132366774_gettyimages-1935904449.jpg",
+            "publishedAt": "2024-01-19T01:22:12.9160472Z",
+            "content": "Donald Trump has joined his wife Melania in mourning her mother, Amalija Knavs, at a private funeral in Florida.\r\nThe former first lady announced the death of her mother at the age of 78 earlier this… [+1255 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Netanyahu publicly rejects US push for Palestinian state",
+            "description": "The Israeli PM's rejection of Washington's efforts shows the growing disagreement between the two allies.",
+            "url": "https://www.bbc.co.uk/news/world-middle-east-68025945",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DEEA/production/_132366075_d955e1877d0f5dae1b4cc8a2e7116475b91e59010_0_4891_32614891x3261.jpg",
+            "publishedAt": "2024-01-18T22:07:13.4175Z",
+            "content": "Israeli Prime Minister Benjamin Netanyahu says he has told the United States that he opposes the establishment of a Palestinian state once the conflict in Gaza comes to an end.\r\nIn a news conference,… [+3442 chars]"
+        }
+    ]
+}
